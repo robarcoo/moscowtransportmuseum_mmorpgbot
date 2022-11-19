@@ -1,2 +1,1 @@
-# moscowtransportmuseum_mmorpgbot_layout
-A layout of bot made specifically for Moscow Museum of Transport on Go Code Hack 2022 Hackathon
+Our task was to develop a solution that involves gamefication mechanics in order to help attract more people to the museum and its exhibit. We decided to implement a little mmorpg bot that makes people to compete between each other in order to reach top of leaderboard and receive gifts by the museum. To progress they need to interact with installations, answer hard quizzes, take photos and etc. 
